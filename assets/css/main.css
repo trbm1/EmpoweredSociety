@@ -8782,3 +8782,10 @@ input, select, textarea {
 									visibility: visible;
 									opacity: 1;
 								}
+
+								.purple-circle {
+									border-radius:100%;
+									border-style:outset; 
+									border-color: purple;
+									border-width: 0.75em;																			
+								}
